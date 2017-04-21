@@ -31,7 +31,7 @@ class RootScreen extends React.Component {
              <Text>Hello, Navigation!</Text>
              <Button
               onPress={() => navigate('Home',{user:'yingying'})}
-              title="Chat with Lucy，hhei"
+              title="Chat with Lucy，hh"
             />
               <Button
                   onPress={() => navigate('DrawerNavRoot',{user:'gaojie'})}
